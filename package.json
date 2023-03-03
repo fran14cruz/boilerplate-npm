@@ -3,7 +3,7 @@
 	"author": "Francisco Cruz",
 	"description": "A project by freeCodeCamp",
 	"keywords": ["freecodecamp", "npm", "package.json file"],
-	"licence": "MIT",
+	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0",
